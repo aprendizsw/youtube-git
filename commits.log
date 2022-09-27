@@ -1,3 +1,42 @@
+commit bef8c2d925391f895b618a3a0ff5e3859f2ee250
+Merge: 9a3c571 872a319
+Author: aprendizsw <83658613+aprendizsw@users.noreply.github.com>
+Date:   Tue Sep 27 11:51:50 2022 -0500
+
+    Merge pull request #1 from larrysbarretot/readme-larrysbarretot
+    
+    Readme larrysbarretot
+
+commit 872a319980894c77de537c6da39e45cf6be55286
+Author: Larry Steve Barreto Trujillo <larrysbarretot@gmail.com>
+Date:   Tue Sep 27 11:27:05 2022 -0500
+
+    Haciendo mejoras al README del repositorio
+
+commit 8bf06e0dd30abcd2ee989061de80a9e1265063d0
+Author: Larry Steve Barreto Trujillo <larrysbarretot@gmail.com>
+Date:   Tue Sep 27 11:10:21 2022 -0500
+
+    cambio de prueba de la segunda cuenta de git
+
+commit 9a3c571a93898b99364980e7af3c8e8f852c17ef
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Tue Sep 27 14:06:49 2022 +0000
+
+    Agregando imagen de flujo Git y poniendo chulo el index.html
+
+commit 1e0f656600d90db964223538874e0c95d775695c
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Tue Sep 27 03:29:38 2022 +0000
+
+    v1.0.0
+
+commit 608e54386b2d7ed38eafdc04d5960de3c997aa8c
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Tue Sep 27 02:53:57 2022 +0000
+
+    Respaldando logs del repositorio
+
 commit e2d701fbd0268234bdceb7c7925ffab0e22670e4
 Author: Aprendiz de SW <aprendizsw@gmail.com>
 Date:   Sun Sep 25 01:57:18 2022 +0000
