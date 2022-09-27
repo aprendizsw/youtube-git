@@ -1,0 +1,98 @@
+commit e2d701fbd0268234bdceb7c7925ffab0e22670e4
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Sun Sep 25 01:57:18 2022 +0000
+
+    Agregando 2 párrafos
+
+commit 583a5875159b7a77749d3c4b05d96cda63447dbe
+Merge: 5d43a4e 347febb
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Sun Sep 25 01:55:02 2022 +0000
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 5d43a4e340e1fcc5cbfc129bd61ede5dbc3520bb
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Sun Sep 25 01:27:32 2022 +0000
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 347febbdd7322b9c360fa3e7e8e94d83da7f9f3e
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Sun Sep 25 01:27:32 2022 +0000
+
+    Agregando las estaciones del año
+
+commit 61d19c25e262e87d5b4085bf4442619af575b847
+Merge: 4166aa5 cb76015
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Sat Sep 24 23:17:21 2022 +0000
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit cb760152ebf638cf062248226db260bdfb93b9f4
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Sat Sep 24 23:07:30 2022 +0000
+
+    Agregando index.js al index.html
+
+commit 4166aa54900d1cd99993672c4d4c0a51d5a84a42
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Sat Sep 24 23:06:02 2022 +0000
+
+    Agregando style.css al index.html
+
+commit d8d734e116b962aa9a490d9e76d67035dfaa173c
+Merge: 93611fd 2699df1
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Sat Sep 24 22:49:49 2022 +0000
+
+    Merge branch 'js'
+
+commit 2699df17c649e94646a61c7f93079e4382899804
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Sat Sep 24 22:35:49 2022 +0000
+
+    Creando index.js
+
+commit 93611fdb1b0527392a193112090d3f8c357dd2a5
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Sat Sep 24 22:29:02 2022 +0000
+
+    Creando style.css
+
+commit e35aacc0e65c4fdafd18355a380f76e18018de43
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Sat Sep 24 22:23:50 2022 +0000
+
+    Creando index.html
+
+commit ead02503fb1898db9ea2fabebf9961bbe3f2965d
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Sat Sep 24 21:53:26 2022 +0000
+
+    Ignorando archivos .exe
+
+commit 0409d301eafee189ffc477121455d3a2736a6b9f
+Author: aprendizsw <83658613+aprendizsw@users.noreply.github.com>
+Date:   Sat Sep 24 15:56:45 2022 -0500
+
+    Creando licencia del repositorio
+
+commit 50591c23bb00c43d0e4316992e68b0bd14c627a7
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Sat Sep 24 20:51:04 2022 +0000
+
+    Agregando más contenido al README
+
+commit 724891994f19a536b0a0f6bee81a988f147bb7c8
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Sat Sep 24 15:28:46 2022 +0000
+
+    Agregando contenido inicial al README
+
+commit a8cad104c32939ee66680c33383cb531189f96a9
+Author: Aprendiz de SW <aprendizsw@gmail.com>
+Date:   Sat Sep 24 15:23:01 2022 +0000
+
+    Primer commit 😀
